@@ -1,9 +1,9 @@
 <?php
 /*
-Plugin Name: FT Auto Login
+Plugin Name: WP Auto Login
 Plugin URI: http://www.famethemes.com/
 Description:  Auto login as administrator without password.
-Author: famethemes
+Author: shrimp2t
 Author URI:  http://www.famethemes.com/
 Version: 1.0.0
 Text Domain: auto-login
